@@ -275,6 +275,12 @@ body{
   display: block;
 }
 
+.card-wrapper{
+  width: 100%;
+  max-width: 1520px;
+  margin: 0 auto;
+}
+
 .card-info{
   width: 100%;
   min-width: 320px;
@@ -1194,7 +1200,7 @@ body{
   }
 
   .card__item:first-child .card__desktop{
-    width: 148%;
+    width: 157%;
   }
   
   .card-info{
